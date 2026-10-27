@@ -7,8 +7,8 @@ Prof. José Romualdo · Checkpoint 3 · 27/10/2026 · Atividade em dupla · Dura
 
 | Nome | RM |
 |---|---|
-| | |
-| | |
+|Andreza de Oliveira Pereira |561066|
+|Gabriel Matos Marques Rosa |559931|
 
 ## Contexto
 
